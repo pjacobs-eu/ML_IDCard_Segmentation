@@ -12,11 +12,7 @@ from glob import glob
 
 download_links = [
     'ftp://smartengines.com/midv-500/dataset/12_deu_drvlic_new.zip',
-    'ftp://smartengines.com/midv-500/dataset/13_deu_drvlic_old.zip',
-    'ftp://smartengines.com/midv-500/dataset/14_deu_id_new.zip',
-    'ftp://smartengines.com/midv-500/dataset/15_deu_id_old.zip',
-    'ftp://smartengines.com/midv-500/dataset/16_deu_passport_new.zip',
-    'ftp://smartengines.com/midv-500/dataset/17_deu_passport_old.zip']
+    'ftp://smartengines.com/midv-500/dataset/13_deu_drvlic_old.zip']
 
 '''
 download_links = ['ftp://smartengines.com/midv-500/dataset/01_alb_id.zip',
